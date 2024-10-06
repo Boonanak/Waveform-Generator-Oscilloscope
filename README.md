@@ -1,9 +1,9 @@
-<h1>Signal Generator</h1>
+<h1>Waveform Generator</h1>
 
 ### [YouTube Demonstration In Work](INSERTLINK)
 
 <h2>Description</h2>
-<p>A low-pass filter is an electronic circuit that allows signals with a frequency lower than a certain cutoff frequency to pass through while attenuating signals with higher frequencies. It's commonly used to remove high-frequency noise or to smooth out signals in applications such as audio processing, signal conditioning, and power supplies. These filters consist of passive components like resistors and capacitors and are essential in controlling the frequency response of electrical signals.</p>
+<p>A waveform generator is an electronic device or software tool used to create electrical waveforms, which are repetitive signals that vary over time. These signals can take different shapes, such as sine waves, square waves, triangular waves, or sawtooth waves. Waveform generators are essential in testing and designing circuits, systems, and equipment across various fields such as telecommunications, audio engineering, and physics.</p>
 
 <h2>Environments Used</h2>
 <ul>
