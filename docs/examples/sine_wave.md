@@ -12,7 +12,7 @@ This guide provides a step-by-step explanation of how to configure a sine wave o
 2. On the oscilloscope, select the correct channel corresponding to the connection.
 3. Verify that the oscilloscope probe or input is set to match the expected signal type (e.g., 1x or 10x).
 
-![Probe Connection](/images/MG_8523.jpg)
+![Probe Connection](/images/IMG_8523.jpg)
 
 ## Step 3: Select the Sine Waveform
 1. Locate the waveform selection controls on the front panel.
