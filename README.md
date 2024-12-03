@@ -9,5 +9,5 @@ A waveform generator is an electronic device or software tool used to create ele
 2. [Getting Started](docs/getting_started.md)
 3. [Examples](docs/examples)
    - [Generate a Sine Wave](docs/examples/sine_wave.md)
-   - [Amplitude Modulation](docs/examples/AM_modulation.md)
+   - [Generate a Square Wave](docs/examples/square_wave.md)
 4. [Troubleshooting](docs/examples/troubleshooting.md)
