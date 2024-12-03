@@ -50,5 +50,4 @@
 - **Start Low:** Begin with a low amplitude to avoid damaging connected devices.  
 - **Verify Connections:** Double-check all cable connections before powering up.  
 - **Use Proper Termination:** Ensure the generator's output impedance matches the load (typically 50 ohms).  
-- **Turn Off Output When Not in Use:** Disable the output when changing settings to avoid unintentional signals.  
-```
+- **Turn Off Output When Not in Use:** Disable the output when changing settings to avoid unintentional signals.

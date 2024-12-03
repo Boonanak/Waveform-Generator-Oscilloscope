@@ -12,14 +12,14 @@ This guide provides a step-by-step explanation of how to configure a sine wave o
 2. On the oscilloscope, select the correct channel corresponding to the connection.
 3. Verify that the oscilloscope probe or input is set to match the expected signal type (e.g., 1x or 10x).
 
-![Probe Connection](IMG_8523.jpg)
+![Probe Connection](/images/MG_8523.jpg)
 
 ## Step 3: Select the Sine Waveform
 1. Locate the waveform selection controls on the front panel.
 2. This might be a dedicated button labeled "Sine" or part of a menu system (e.g., under "Waveform").
 3. Press the button or use the menu to select the Sine Wave option.
 
-![Sin Wave On Wave Gen](IMG_8524.jpg)
+![Sin Wave On Wave Gen](/images/IMG_8524.jpg)
 
 ## Step 4: Configure the Frequency
 1. Identify the Frequency Control on the front panel.
@@ -56,7 +56,7 @@ This guide provides a step-by-step explanation of how to configure a sine wave o
    - Double-check the generator settings.
    - Ensure proper connections and termination if relevant (e.g., 50-ohm load).
 
-![Sin Wave on Oscilloscope](IMG_8520.jpg)
+![Sin Wave on Oscilloscope](/images/IMG_8520.jpg)
 
 ### Example Settings for a 1 kHz Sine Wave
 
