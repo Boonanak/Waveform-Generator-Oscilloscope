@@ -4,6 +4,9 @@ This repository provides a step-by-step guide to using a bench waveform generato
 
 A waveform generator is an electronic device or software tool used to create electrical waveforms, which are repetitive signals that vary over time. These signals can take different shapes, such as sine waves, square waves, triangular waves, or sawtooth waves. Waveform generators are essential in testing and designing circuits, systems, and equipment across various fields such as telecommunications, audio engineering, and physics.
 
+
+fdsfsdfsdfs Hello my name is Sean
+
 ## Sections
 1. [Introduction](docs/basics.md)
 2. [Getting Started](docs/getting_started.md)
