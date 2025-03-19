@@ -1,6 +1,6 @@
 # Waveform Generator
 
-This repository provides a step-by-step guide to using a bench waveform generator and how to use an Oscilloscope for various applications. Learn how to generate and configure waveforms, connect to other devices, visualize waveforms, and measure them.
+This repository provides a step-by-step guide to using a bench waveform generator and how to use an Oscilloscope for various applications. Learn how to generate and configure waveforms, connect to other devices, visualize waveforms, and measure them. I will be using the DSOX1204G Oscilliscope for my demonstrations. 
 
 A waveform generator is an electronic device or software tool used to create electrical waveforms, which are repetitive signals that vary over time. These signals can take different shapes, such as sine waves, square waves, triangular waves, or sawtooth waves. Waveform generators are essential in testing and designing circuits, systems, and equipment across various fields such as telecommunications, audio engineering, and physics.
 
@@ -12,6 +12,11 @@ An oscilloscope is a device used to visualize waveforms, measure their character
 3. [Examples](docs/examples)
    - [Generate a Sine Wave](docs/examples/gen_sine_wave.md)
    - [Generate a Square Wave](docs/examples/gen_square_wave.md)
-   - [Visualizing a Sine Wave](docs/examples/vis_sine_wave.md)
-   - [Visualizing a Square Wave](docs/examples/vis_square_wave.md)
+   - [Visualizing a Waveform](docs/examples/vis_wave.md)
+   - [Measuring aspects of a Waveform](docs/examples/measure.md)
+   - [Placing cursors on a Waveform](docs/examples/cursors.md)
+   - [Computations on Wavesform](docs/examples/math.md)
+   - [Advanced Analysis of a Waveform](docs/examples/analyze.md)
+   - [Using Triggers on a Waveform](docs/examples/trigger.md)
+   - [Troubleshooting](docs/examples/troubleshooting.md)
 4. [Troubleshooting](docs/examples/troubleshooting.md)
