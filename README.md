@@ -18,5 +18,4 @@ An oscilloscope is a device used to visualize waveforms, measure their character
    - [Computations on Wavesform](docs/examples/math.md)
    - [Advanced Analysis of a Waveform](docs/examples/analyze.md)
    - [Using Triggers on a Waveform](docs/examples/trigger.md)
-   - [Troubleshooting](docs/examples/troubleshooting.md)
 4. [Troubleshooting](docs/examples/troubleshooting.md)
