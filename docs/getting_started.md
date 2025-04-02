@@ -2,7 +2,7 @@
 
 ## Waveform Generator
 
-![Waveform Generator Front Panel](images/waveform_front.png)
+![Waveform Generator Front Panel](images/IMG_9331.jpg)
 
 ### 1. Waveform Selection 
 - Most waveform generators have buttons, dials, or a touch screen to select the type of waveform.  
@@ -34,7 +34,7 @@
 
 ## **Oscilloscope** 
 
-![Oscilloscope Front Panel](images/oscilloscope_front.png)
+![Oscilloscope Front Panel](images/IMG_9330.jpg)
 
 ### **1. Entry Knob**  
 - Used for fine-tuning settings and navigating menus.  
